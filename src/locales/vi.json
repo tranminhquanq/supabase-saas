@@ -1,0 +1,35 @@
+{
+  "Layout": {
+    "protected_link": "Trang được bảo vệ",
+    "docs_link": "Tài liệu",
+    "pricing_link": "Giá cả",
+    "sign_in_link": "Đăng nhập",
+    "sign_up_link": "Đăng ký",
+    "sign_out_link": "Đăng xuất"
+  },
+  "Index": {
+    "meta_title": "Giới thiệu Next.js Boilerplate",
+    "meta_description": "Next js Boilerplate là mã khởi động hoàn hảo cho dự án của bạn. Xây dựng ứng dụng React của bạn với framework Next.js.",
+    "sponsors_title": "Đối tác"
+  },
+  "SignIn": {
+    "meta_title": "Đăng nhập",
+    "meta_description": "Đăng nhập vào tài khoản của bạn một cách dễ dàng."
+  },
+  "SignUp": {
+    "meta_title": "Đăng ký",
+    "meta_description": "Tạo tài khoản dễ dàng với quy trình đăng ký trực quan của chúng tôi."
+  },
+  "Docs": {
+    "meta_title": "Tài liệu",
+    "meta_description": "Mô tả trang tài liệu"
+  },
+  "Pricing": {
+    "meta_title": "Giá cả",
+    "meta_description": "Mô tả trang giá cả"
+  },
+  "Protected": {
+    "meta_title": "Trang được bảo vệ",
+    "meta_description": "Mô tả trang được bảo vệ"
+  }
+}
